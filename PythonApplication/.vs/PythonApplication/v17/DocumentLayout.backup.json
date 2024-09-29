@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\tests\\test_module1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\tests\\test_module1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\tests\\test_module2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\tests\\test_module2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\project\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\project\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\module2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\Project\\module2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\module1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\Project\\module1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\Calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\InventoryManagementSystem.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\InventoryManagementSystem.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\AreaCalculation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\AreaCalculation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\PythonApplication.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{123BB52D-0FAC-4AFB-B28F-D4CFE780B13C}|PythonApplication\\PythonApplication.pyproj|solutionrelative:PythonApplication\\PythonApplication.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_module2.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Tests\\test_module2.py",
+              "RelativeDocumentMoniker": "PythonApplication\\Tests\\test_module2.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Tests\\test_module2.py",
+              "RelativeToolTip": "PythonApplication\\Tests\\test_module2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:28:44.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_module1.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Tests\\test_module1.py",
+              "RelativeDocumentMoniker": "PythonApplication\\Tests\\test_module1.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Tests\\test_module1.py",
+              "RelativeToolTip": "PythonApplication\\Tests\\test_module1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:28:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "module2.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\module2.py",
+              "RelativeDocumentMoniker": "PythonApplication\\Project\\module2.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\module2.py",
+              "RelativeToolTip": "PythonApplication\\Project\\module2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:26:32.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "module1.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\module1.py",
+              "RelativeDocumentMoniker": "PythonApplication\\Project\\module1.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\module1.py",
+              "RelativeToolTip": "PythonApplication\\Project\\module1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:26:22.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\main.py",
+              "RelativeDocumentMoniker": "PythonApplication\\Project\\main.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Project\\main.py",
+              "RelativeToolTip": "PythonApplication\\Project\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:26:06.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Calculator.py",
+              "RelativeDocumentMoniker": "PythonApplication\\Calculator.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\Calculator.py",
+              "RelativeToolTip": "PythonApplication\\Calculator.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:22:12.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryManagementSystem.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\InventoryManagementSystem.py",
+              "RelativeDocumentMoniker": "PythonApplication\\InventoryManagementSystem.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\InventoryManagementSystem.py",
+              "RelativeToolTip": "PythonApplication\\InventoryManagementSystem.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:19:47.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AreaCalculation.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\AreaCalculation.py",
+              "RelativeDocumentMoniker": "PythonApplication\\AreaCalculation.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\AreaCalculation.py",
+              "RelativeToolTip": "PythonApplication\\AreaCalculation.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T15:18:15.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PythonApplication.py",
+              "DocumentMoniker": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\PythonApplication.py",
+              "RelativeDocumentMoniker": "PythonApplication\\PythonApplication.py",
+              "ToolTip": "C:\\Users\\PBWim\\Documents\\Pabodha\\Projects\\PythonLearn\\PythonApplication\\PythonApplication\\PythonApplication.py",
+              "RelativeToolTip": "PythonApplication\\PythonApplication.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-28T14:53:09.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
